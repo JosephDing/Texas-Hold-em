@@ -13,5 +13,5 @@
    Try to test the winning rate and test the winning rate of the NPCs in a Multiplayer mode with different strategies. 
    Try to develop versions in different languages: English, Mandarin, Japanese, Cantonese, Dutch, French, Spanish, German...
 
-  # Edition
-  Readme_ver0.0_2020/11/28/3:15am CET
+# Edition
+ Readme_ver0.0_2020/11/28/3:15am CET
