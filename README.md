@@ -1,7 +1,7 @@
 # Texas-Hold-em
-<b> 1. Try to write a Texas hold'em in Python / Javascript / Java (Or maybe also C later?) <b/>
-<b> 2. Try to wrap it up into an installation pack <b/>
-<b> 3. Try to write the documents <b/>
+1. Try to write a Texas hold'em in Python / Javascript / Java (Or maybe also C later?)
+2. Try to wrap it up into an installation pack
+3. Try to write the documents
 ============================================================
 Ver0.0
   Realize the basic logic and the NPC raise everytime and never fold, add bet everytime and never check. 
